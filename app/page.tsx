@@ -56,7 +56,7 @@ export default function Home() {
             Go to our dating bot
           </a>
           <a
-            href="https://t.me/daniget12"
+            href="https://t.me/Au_confession_admin"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center justify-center gap-2 border border-gray-300 dark:border-gray-600 rounded-full px-6 py-3 hover:bg-gray-100 dark:hover:bg-gray-800 transition-all"
